@@ -1,9 +1,7 @@
 
 /* the game is the hangman game developed in c language using multidimensional arrays and pointers
-It is very simple to implement an quite challenging to the player..
-Decrypt the encrypted word, happy holiday!!!
+It is very simple to implement..
 developed by Njiu Stephen  # D.C.T */
-//
 
 
 #define _CRT_SECURE_NO_WARNINGS
